@@ -1,0 +1,42 @@
+body{
+  background-color:	#3379FF;
+  margin
+}
+
+h1{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: 	#00000;
+}
+
+div{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: 	#FFE4E1;
+}
+
+Input{
+  font-size: 50px;
+  border-radius: 10px;
+  background-color: #800000;
+  border: 5px solid #808000;
+  margin: 15px;
+}
+
+button{
+  background-color: #33F7FF;
+  font-size: 30px;
+  font-family: 'IM Fell English SC', serif;
+  padding: .30px 50px;
+  color: #FFE4E1;
+  border: 3px solid #FF33F2;
+  border-radius: 5px;
+ }
+
+h2{
+  font-size: 30px;
+  text-align: center;
+  color: 	#87FF33;
+}
